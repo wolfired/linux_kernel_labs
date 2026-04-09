@@ -11,6 +11,7 @@
         "*.mod*",
         "*.symvers",
         "*.order",
-        "main"
+        "main",
+        "compile_commands.json"
     ]
 }
